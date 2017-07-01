@@ -57,14 +57,14 @@
   "homepage": "https://github.com/swimlane/ngx-dnd#readme",
   "peerDependencies": {
     "@angular/animations": "^4.0.2",
-    "@angular/common": "~4.0.2",
-    "@angular/compiler": "~4.0.2",
-    "@angular/core": "~4.0.2",
-    "@angular/platform-browser": "~4.0.2",
-    "@angular/platform-browser-dynamic": "~4.0.2",
-    "core-js": "2.4.1",
-    "rxjs": "5.0.3",
-    "zone.js": "^0.7.6"
+    "@angular/common": "^4.0.2",
+    "@angular/compiler": "^4.0.2",
+    "@angular/core": "^4.0.2",
+    "@angular/platform-browser": "^4.0.2",
+    "@angular/platform-browser-dynamic": "^4.0.2",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.0.3",
+    "zone.js": "^0.8.4"
   },
   "devDependencies": {
     "@angular/animations": "^4.0.2",
@@ -85,7 +85,7 @@
     "@types/node": "^7.0.5",
     "angular2-template-loader": "^0.6.0",
     "autoprefixer": "^6.7.0",
-    "awesome-typescript-loader": "~3.0.0-beta.10",
+    "awesome-typescript-loader": "^3.0.0-beta.10",
     "chg": "^0.3.2",
     "clean-webpack-plugin": "^0.1.15",
     "codelyzer": "0.0.28",
@@ -135,7 +135,7 @@
     "webpack-dev-server": "^2.2.0",
     "webpack-merge": "^2.4.0",
     "webpack-notifier": "^1.5.0",
-    "zone.js": "^0.7.6"
+    "zone.js": "^0.8.4"
   },
   "dependencies": {
     "dragula": "^3.7.2"
